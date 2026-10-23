@@ -1,0 +1,9 @@
+8
+D, Ravi Kumar, 80, false
+D, Sita Devi, 250, true
+D, Anil Rao, 420, false
+C, Mehta Traders, 800, 5, true, 3
+C, Sri Sai Foods, 1500, 12, false, 0
+C, Bad Load Co, 300, -5, false, 0
+D, Kiran, abc, false
+D, Neg Units, -20, false

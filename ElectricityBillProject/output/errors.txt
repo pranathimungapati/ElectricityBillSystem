@@ -1,0 +1,4 @@
+=== Run Time: 2026-10-23T17:22:21.971447700 ===
+Line 7 | Record: [C, Bad Load Co, 300, -5, false, 0] | Exception: InvalidLoadException | Message: Invalid connected load: -5.0
+Line 8 | Record: [D, Kiran, abc, false] | Exception: InvalidRecordException | Message: Non-numeric value encountered
+Line 9 | Record: [D, Neg Units, -20, false] | Exception: InvalidUnitsException | Message: Invalid units: -20.0

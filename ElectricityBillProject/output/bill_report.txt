@@ -1,0 +1,19 @@
+=== ELECTRICITY BILL REPORT ===
+ID: 1, Name: Ravi Kumar, Units: 80.0, Bill: 290.00
+-----------------------------------
+ID: 2, Name: Sita Devi, Units: 250.0, Bill: 1365.00
+-----------------------------------
+ID: 3, Name: Anil Rao, Units: 420.0, Bill: 2780.00
+-----------------------------------
+ID: 4, Name: Mehta Traders, Units: 800.0, Bill: 5850.00
+Load KW: 5.0, Demand Charge: 600.00
+Late Penalty: 351.00
+-----------------------------------
+ID: 5, Name: Sri Sai Foods, Units: 1500.0, Bill: 11240.00
+Load KW: 12.0, Demand Charge: 1440.00
+Late Penalty: 674.40
+-----------------------------------
+Comparison (First 2): Sita Devi
+Highest Bill Consumer: Sri Sai Foods
+Total Consumer Count: 7
+Records read: 8, accepted: 5, rejected: 3
